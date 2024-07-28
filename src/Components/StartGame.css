@@ -1,0 +1,7 @@
+.imgc {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    margin: 200px; /* Add some margin if needed */
+}
